@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cat ./README
+cat ./attention.txt
